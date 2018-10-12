@@ -19,7 +19,7 @@ DeviceObserver  获取设备的唯一标识,可靠，快速。
 
 #### 第一
 
-[下载演示apk](https://gitee.com/dqq/DeviceObserver/blob/master/apk/observer_demo_0.0.5.apk) 至你的手机，进行正常的安装操作
+[下载演示apk](https://github.com/zmobs/DeviceObserver/blob/master/apk/observer_demo_0.0.5.apk) 至你的手机，进行正常的安装操作
 
 
 #### 第二
@@ -39,7 +39,7 @@ DeviceObserver  获取设备的唯一标识,可靠，快速。
 
 如果有崩溃问题，或者其他任何异常，欢迎在这里反馈给我：
 
-https://gitee.com/dqq/DeviceObserver/issues
+https://github.com/zmobs/DeviceObserver/issues
 
   
 
