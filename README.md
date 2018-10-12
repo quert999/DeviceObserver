@@ -59,7 +59,7 @@ https://github.com/zmobs/DeviceObserver/issues
 
 ```
 // 引入设备指纹库
-api 'com.dqqdo:DeviceObserver:0.0.3'
+api 'com.dqqdo:DeviceObserver:0.0.5'
 ```
 
 
