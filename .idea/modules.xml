@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeviceLib.iml" filepath="$PROJECT_DIR$/DeviceLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeviceObserver.iml" filepath="$PROJECT_DIR$/DeviceObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeviceObserver/DeviceObserver.iml" filepath="$PROJECT_DIR$/DeviceObserver/DeviceObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeviceObserver/DeviceObserver-DeviceObserver.iml" filepath="$PROJECT_DIR$/DeviceObserver/DeviceObserver-DeviceObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observertest/observertest.iml" filepath="$PROJECT_DIR$/observertest/observertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observertest/observertest.iml" filepath="$PROJECT_DIR$/observertest/observertest.iml" />
+    </modules>
+  </component>
+</project>
