@@ -13,6 +13,7 @@ android {
         versionName "0.0.3"
         externalNativeBuild {
             cmake {
+                arguments "-DANDROID_STL=c++_shared"
                 cppFlags ""
                 abiFilters 'armeabi-v7a'
             }
